@@ -1,0 +1,10 @@
+.down-list{
+      font-size: 17px;
+}
+.down-list li{
+      list-style: none;
+      margin-left: -30px;
+}
+.down-name{
+      font-size: 22px;
+}
